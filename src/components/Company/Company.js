@@ -34,7 +34,7 @@ const Company = () => {
                 <CompanyOffices></CompanyOffices>
             </div>
             <div className="company-partnership-container">
-                <h5><small>For partnership and business development inquiries, please contact us at <span className="company-email">bizdev@udemy.com</span></small></h5>
+                <h5><small>For partnership and business development inquiries, please contact us at <span className="company-email">bizdev@educare.com</span></small></h5>
                 <br />
                 <h5><small>Check out our <span className="company-email">Help and Support</span> center to find quick answers to your questions.</small></h5>
             </div>
