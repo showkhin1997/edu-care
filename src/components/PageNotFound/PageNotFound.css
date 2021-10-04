@@ -1,0 +1,11 @@
+.page-not-found-container{
+    padding: 50px;
+    margin-left: 200px;
+}
+.page-not-found-container img{
+    width: 65%;
+}
+.page-not-found-text-btn{
+    margin-top: 10px;
+    margin-left: 500px;
+}

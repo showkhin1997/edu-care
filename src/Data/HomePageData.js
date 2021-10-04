@@ -1,4 +1,4 @@
-const courses = [
+/* const courses = [
     {
         id: 1,
         title: 'Learn Ethical Hacking From Scratch',
@@ -31,4 +31,4 @@ const courses = [
         description: 'Master Adobe Illustrator with this in-depth training for all levels.',
         img: 'https://www.glaadblog.org/wp-content/uploads/2019/11/Lessons-Of-Adobe-Illustrator-Application.jpg'
     },
-];
+]; */
