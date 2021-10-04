@@ -1,0 +1,21 @@
+.catagories-container{
+    margin-top: 60px;
+    margin-bottom: 70px;
+    padding: 30px;
+}
+.catagories-container h1{
+    background-color: rgb(243, 243, 243);
+    margin-bottom: 50px;
+    line-height: 60px;
+    text-align: center;
+    border-radius: 5px;
+}
+.catagories-icon{
+    font-size: 60px;
+    text-align: center;
+    color: rgba(48, 84, 201, 0.89);
+    transition: transform .4s;
+}
+.catagories-icon:hover{
+    transform: scale(1.5);
+}

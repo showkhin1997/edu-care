@@ -25,7 +25,7 @@ const Company = () => {
                     <img src={image2} alt="" />
                 </div>
                 <div className="started-company-text">
-                    <h1>How We Starte</h1>
+                    <h1>How We Start</h1>
                     <p>From an early age, edu care founder knew learning was the key to unlocing oppurtunity</p>
                 </div>
             </div>

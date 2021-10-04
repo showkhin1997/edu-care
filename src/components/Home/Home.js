@@ -4,11 +4,13 @@ import Banner from '../Banner/Banner';
 import Courses from '../Courses/Courses';
 import './Home.css';
 import teacherimage from '../../images/teachingImage.png';
+import Catagories from '../Catagories/Catagories';
 
 const Home = () => {
     return (
         <div>
             <Banner></Banner>
+            <Catagories></Catagories>
             <Courses></Courses>
             <div className="teaching-container">
                 <div className="teaching-text">
