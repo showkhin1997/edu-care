@@ -1,0 +1,37 @@
+.about-container{
+    margin-top: 50px;
+    padding: 20px;
+    margin: 20px;
+}
+.about-text{
+    text-align: center;
+    background-color: rgb(243, 243, 243);
+    line-height: 60px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+.about-banner-container{
+    display: flex;
+    padding: 40px;
+    background-color: rgb(208, 237, 255);
+    border-radius: 10px;
+}
+.about-banner-container h1{
+  margin-top: 100px;
+  font-size: 30px;
+  font-weight: 600;
+  margin-left: 50px;
+}
+.about-btn{
+    margin-top: 20px;
+    margin-left: 50px; 
+}
+.more-details{
+    margin-top: 50px;
+    text-align: center;
+}
+.sponser-image{
+    padding: 30px;
+    margin-left: 100px;
+    width: 80%;
+}
