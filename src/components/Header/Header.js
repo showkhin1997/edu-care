@@ -14,7 +14,7 @@ const Header = () => {
                 <img className="header-logo" src={logo} alt="" />
                 <h1 className="site-title">Edu <span>Care</span></h1>
                 <Link className="nav-link" to="/home">Home</Link>
-                <Link className="nav-link" to="/morecourses">More Courses</Link>
+                <Link className="nav-link" to="/morecourses">More Course</Link>
                 <Link className="nav-link" to="/about">About Us</Link>
                 <Link className="nav-link" to="/company">Company</Link>
                 <InputGroup className="mb-3 w-25 m-auto mt-2 ml-5">
