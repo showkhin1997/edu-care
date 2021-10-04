@@ -16,6 +16,7 @@ const Header = () => {
                 <Link className="nav-link" to="/home">Home</Link>
                 <Link className="nav-link" to="/morecourses">More Courses</Link>
                 <Link className="nav-link" to="/about">About Us</Link>
+                <Link className="nav-link" to="/company">Company</Link>
                 <InputGroup className="mb-3 w-25 m-auto mt-2 ml-5">
                     <FormControl
                         placeholder="search your course"

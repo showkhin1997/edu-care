@@ -7,6 +7,7 @@ import PageNotFound from './components/PageNotFound/PageNotFound';
 import Header from './components/Header/Header';
 import Footer from './components/Footer/Footer';
 import MoreCourses from './components/MoreCourses/MoreCourses';
+import Company from './components/Company/Company';
 
 function App() {
   return (
@@ -25,6 +26,9 @@ function App() {
           </Route>
           <Route path="/about">
             <About></About>
+          </Route>
+          <Route path="/company">
+            <Company></Company>
           </Route>
           <Route path="*">
             <PageNotFound></PageNotFound>
