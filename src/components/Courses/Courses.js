@@ -16,7 +16,7 @@ const Courses = () => {
         <div className="home-card-container">
             <h1>Explore Our Popular Courses</h1>
 
-            <Row xs={1} md={2} className="g-4">
+            <Row xs={1} md={2} className="g-5">
                 {
                     courses.map(course => <Course
                         key={course.id}

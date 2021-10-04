@@ -12,9 +12,9 @@ This project was react,react router,bootstrapped with [Edu Care](https://edu-car
 - If anybody want to teach any kind of course then he can join easily
 
 ### Technology
-• React
-• React Router
-• React Bootstrap
-• Vanila Css
-• Fontawesome
-• Database
+- React
+- React Router
+- React Bootstrap
+- Vanila Css
+- Fontawesome
+- Database

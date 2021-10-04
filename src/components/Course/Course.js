@@ -6,7 +6,7 @@ const Course = (props) => {
     const { title, instructor, img, price, description } = props.course;
     return (
         <Col>
-            <Card className="mx-auto">
+            <Card className="mx-auto w-75 h-100 m-3 p-3">
                 <Card.Img variant="top" src={img} className="card-image" />
                 <Card.Body>
                     <Card.Title>{title}</Card.Title>
