@@ -2,12 +2,13 @@
     display: flex;
     background-color: rgba(241, 241, 241, 0.932);
     padding: 50px;
+    margin-top: 50px;
 }
 .banner-title{
     font-size: 40px;
     font-weight: 600;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-left: 200px;
+    margin-left: 129px;
     margin-top: 40px;
     font-style: italic;
 }
@@ -15,7 +16,7 @@
     color: rgb(214, 139, 0);
 }
 .banner-text{
-    margin-left: 200px;
+    margin-left: 129px;
     text-align: justify;
     margin-top: 20px;
     font-size: 20px;
@@ -23,7 +24,7 @@
     width: 50%;
 }
 .course-btn{
-    margin-left: 200px;
+    margin-left: 129px;
 }
 .banner-image{
     width: 100%;
