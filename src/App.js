@@ -6,6 +6,7 @@ import Courses from './components/Courses/Courses';
 import About from './components/About/About';
 import PageNotFound from './components/PageNotFound/PageNotFound';
 import Header from './components/Header/Header';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -29,6 +30,7 @@ function App() {
             <PageNotFound></PageNotFound>
           </Route>
         </Switch>
+        <Footer></Footer>
       </Router>
     </div>
   );

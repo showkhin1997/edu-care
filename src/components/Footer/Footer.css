@@ -1,0 +1,61 @@
+.footer-container{
+    background-color: rgb(14, 14, 14);
+}
+.footer-body{
+    display: flex;
+}
+.footer-body-text{
+    color: rgb(197, 197, 197);
+    margin-left: 300px;
+
+}
+.footer-body-text:hover{
+    color: rgb(73, 73, 255);
+    cursor: pointer;
+}
+.footer-title{
+    font-weight: 600;
+    font-size: 30px;
+    font-style: italic;
+    color: whitesmoke;
+    margin-left: 60px;
+    margin-top: 50px;
+    padding: 20px;
+}
+.footer-title span{
+    color: rgb(240, 156, 0);
+}
+.subscibe-input-field h4{
+    margin-top: -50px;
+    color: whitesmoke;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.subscibe-input-field{
+    margin-left: 600px;
+}
+.copyright-text{
+   margin-top: 50px;
+   color: rgb(175, 175, 175);
+   font-size: 15px;
+   margin-left: 300px;
+}
+/* footer icon */
+.fab-icon{
+    margin-top: -50px;
+    font-size: 30px;
+    padding: 20px;
+    margin-left: 60px;
+}
+.fa-facebook-square{
+    color: rgb(16, 148, 244);
+    margin-right: 10px;
+    
+}
+.fa-twitter-square{
+    color: rgb(93, 169, 221);
+    margin-right: 10px;
+}
+.fa-instagram-square{
+    background-image: linear-gradient(rgb(4, 0, 255), rgb(255, 0, 191));
+}

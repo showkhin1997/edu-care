@@ -1,7 +1,7 @@
 .banner-container{
     display: flex;
     background-color: rgba(241, 241, 241, 0.932);
-    padding: 30px;
+    padding: 60px;
 }
 .banner-title{
     font-size: 50px;
