@@ -3,13 +3,16 @@ import React from 'react';
 import { Button, FormControl, InputGroup } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import './Header.css';
+import logo from '../../images/logo.png';
+
 
 const Header = () => {
 
     return (
         <div>
             <nav>
-                <img src="" alt="" />
+                <img className="header-logo" src={logo} alt="" />
+                <h1 className="site-title">Edu <span>Care</span></h1>
                 <Link className="nav-link" to="/home">Home</Link>
                 <Link className="nav-link" to="/courses">Courses</Link>
                 <Link className="nav-link" to="/about">About</Link>
@@ -24,6 +27,7 @@ const Header = () => {
                     </Button>
                 </InputGroup>
             </nav>
+
         </div>
     );
 };

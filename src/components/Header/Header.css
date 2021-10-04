@@ -1,6 +1,22 @@
+.header-logo{
+    width: 44px;
+    height: 48px;
+    margin-left: 14px;
+}
+.site-title{
+    margin-top: 10px;
+    font-weight: 600;
+    font-size: 30px;
+    font-style: italic;
+    color: rgb(240, 156, 0);
+    margin-right: 190px;
+    text-shadow: 10px 5px 10px gray;
+}
+span{
+    color: black;
+}
 nav{
     background-color: rgba(255, 255, 255, 0.904);
-    line-height: 20px;
     text-align: center;
     box-shadow: 5px 5px 5px rgb(190, 190, 190);
     display: flex;
@@ -11,14 +27,17 @@ nav{
     font-weight: 500;
     color: rgb(0, 0, 0);
     margin-left: 30px;
-    padding: 5px; 
+    padding: 14px; 
     border-radius: 5px;
     display: inline-block;
-    margin-top: 10px;
+    
 }
 .nav-link:hover{
     background-color: lightgray;
 }
+
+
+
 
 
 

@@ -1,0 +1,23 @@
+.banner-container{
+    display: flex;
+    background-color: rgba(241, 241, 241, 0.932);
+    padding: 30px;
+}
+.banner-title{
+    font-size: 50px;
+    font-weight: 600;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-style: italic;
+}
+.banner-text{
+    margin-left: 20px;
+    text-align: justify;
+    margin-top: 20px;
+    font-size: 25px;
+    font-weight: 400;
+}
+.banner-image{
+    width: 100%;
+}
