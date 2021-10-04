@@ -1,22 +1,26 @@
 .banner-container{
     display: flex;
     background-color: rgba(241, 241, 241, 0.932);
-    padding: 60px;
+    padding: 50px;
 }
 .banner-title{
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 600;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-left: 20px;
-    margin-top: 20px;
+    margin-left: 200px;
+    margin-top: 40px;
     font-style: italic;
 }
+.smoething-text{
+    color: rgb(214, 139, 0);
+}
 .banner-text{
-    margin-left: 20px;
+    margin-left: 200px;
     text-align: justify;
     margin-top: 20px;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 400;
+    width: 50%;
 }
 .banner-image{
     width: 100%;

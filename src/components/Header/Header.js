@@ -23,12 +23,12 @@ const Header = () => {
                         aria-label="Recipient's username"
                         aria-describedby="basic-addon2"
                     />
-                    <Button variant="primary" >
+                    <Button variant="primary">
                         Search
                     </Button>
                 </InputGroup>
+                <Button className="login-button" variant="outline-primary">Login</Button>{' '}
             </nav>
-
         </div>
     );
 };

@@ -11,9 +11,9 @@ const Footer = () => {
                 <h1 className="footer-title"><span>Edu</span> Care</h1>
                 <div className="footer-body">
                     <div className="fab-icon">
-                        <i class="fab fa-facebook-square"></i>
-                        <i class="fab fa-twitter-square"></i>
-                        <i class="fab fa-instagram-square"></i>
+                        <i className="fab fa-facebook-square"></i>
+                        <i className="fab fa-twitter-square"></i>
+                        <i className="fab fa-instagram-square"></i>
                     </div>
                     <div>
                         <div className="subscibe-input-field">

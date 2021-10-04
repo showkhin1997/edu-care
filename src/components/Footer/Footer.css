@@ -42,7 +42,7 @@
 }
 /* footer icon */
 .fab-icon{
-    margin-top: -50px;
+    margin-top: -40px;
     font-size: 30px;
     padding: 20px;
     margin-left: 60px;
@@ -57,5 +57,6 @@
     margin-right: 10px;
 }
 .fa-instagram-square{
-    background-image: linear-gradient(rgb(4, 0, 255), rgb(255, 0, 191));
+    background-image: linear-gradient(rgb(34, 30, 255), rgb(255, 72, 209));
+    border-radius: 5px;
 }

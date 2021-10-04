@@ -7,7 +7,7 @@ const Banner = () => {
         <div>
             <div className="banner-container">
                 <div>
-                    <h1 className="banner-title">Always something new to learn with Us</h1>
+                    <h1 className="banner-title">Always <span className="smoething-text">Something</span> new <br /> to learn with us</h1>
                     <p className="banner-text">With courses added regularly to our catalog, you always get the latest skills. Sale from $13.99 ends today.</p>
                 </div>
                 <div>

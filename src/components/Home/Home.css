@@ -1,0 +1,15 @@
+.teaching-container{
+    display: flex;
+    margin-top: 150px;
+}
+.teaching-text{
+    margin-left: 308px;
+    margin-top: 80px;
+    width: 50%;
+}
+.teaching-text p{
+    width: 72%;
+}
+.teaching-img{
+    margin-right: 363px;
+}
